@@ -1,2 +1,1 @@
-# alx-frontend-for-fun
-Front-End Development
+# Front-End Development
